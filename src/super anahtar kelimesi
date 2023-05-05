@@ -1,0 +1,9 @@
+super anahtar kelimesinin kullanımı farklı şekillerde olabiliyor;
+
+1)Ana sınıfta override edilen methoda erişmek için kullanabiliriz.
+2)Ana sınıftaki constructor'daki değerlere erişmek için kullanabiliriz.
+3)Ana sınıftaki değişkenlere alt sınıflardan ulaşmak için kullanabiliriz.
+  Eğer birden fazla aynı isimli değişken var ise değişkenin önüne super. yazarak ana sınıftaki değişkeni kullanabiliriz.
+
+Nesne yönelimli programlamanın temellerinden biri de sınıflarda sadece gerekli bilgilerin tutulmasıdır.
+Temel mantık her zaman ana sınıflarda tutulur.

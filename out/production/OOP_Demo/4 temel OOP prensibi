@@ -1,0 +1,19 @@
+Encapsulation - Kapsülleme
+Sınıfın içindeki değişkenleri private olarak tanımlayarak,
+değişkenlere getter ve setterlar ile okuma ve yazma yetkisi verilmesidir.
+
+Abstraction - Soyutlama
+Karmaşık ayrıntıları gizlemek, kullanıcıya yalnızca gerekli bilgileri göstermek için kullanılır.
+Inheritance ile birlikte kullanılır.
+Abstract class olarak oluşturulur.
+
+Inheritance - Kalıtım
+Sınıflar arası ilişki tanımlanması için kullanılır.
+Parent class'ı child class'a "extends" ile ekleriz.
+
+Polymorphism - Çok Biçimlilik
+Sıklıkla Inheritance prensibi ile kullanılır.
+Aynı methodun farklı objelerde farklı çıktılar vermesidir.
+  Ör: sesCıkar() methodu ile
+      kedi objesi için "Miyav miyav!" yazdırdık
+      köpek objesi için ise "Hav hav!" yazdırdık

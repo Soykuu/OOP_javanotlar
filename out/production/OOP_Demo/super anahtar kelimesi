@@ -1,0 +1,6 @@
+super() kullanımı 2 şekilde oluyor;
+1)Ana sınıfta override edilen methoda erişmek için kullanırız.
+2)Ana sınıftaki constructorlara ulaşmak için kullanırız.
+
+Nesne yönelimli programlamanın temellerinden biri de sınıflarda sadece gerekli bilgilerin tutulmasıdır.
+Temel mantık her zaman ana sınıflarda tutulur.
